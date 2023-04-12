@@ -17,10 +17,13 @@ Learning Modern Progress Application App
 - This progress weather web app (PWA) is looking and behaving like a mobile app. 
     * On the app, search bar component is shown up where users type the city they want to know weather information, then by pressing enter, axios fetch necessary data from [Open Weather API](#https://openweathermap.org/api) website.
     * It will show the name of the city, degree celcius, image icons and description.   
+### Learning Takenote:
+ - Create manifest.json and serviceworker.js files. 
+ - Check Application, Network, LightHouse on Chrome Dev Tool.
+ - Learn to upload app to PWA store.
 ### Demo Link 
 [Click to see](https://weatherapp-pwaa.netlify.app/)
 ### Video Demo (click the video below to play)
-
 
 
 ### How to get the app locally
