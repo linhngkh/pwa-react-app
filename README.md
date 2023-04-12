@@ -8,8 +8,6 @@ Learning Modern Progress Application App by building this pwa.
 * CSS 
 * JavaScript
     * React
-        * useState
-        * useEffect
 #### Deploy
 * Netlify
 
