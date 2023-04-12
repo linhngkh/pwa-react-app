@@ -1,4 +1,4 @@
-# Learning Progress Application App
+# Learning Progress Application App(PWA)
 ## Description: 
 Learning Modern Progress Application App 
 ### Technologies and tools used:
