@@ -1,6 +1,6 @@
 # Learning Progress Application App(PWA)
 ## Description: 
-Learning Modern Progress Application App 
+Learning Modern Progress Application App by building this pwa. 
 ### Technologies and tools used:
 
 #### Front End
