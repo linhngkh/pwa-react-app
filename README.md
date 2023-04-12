@@ -14,6 +14,10 @@ Learning Modern Progress Application App
 * Netlify
 
 ### App functionality overview:
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/44481142/231544308-0e01d635-5cca-4e31-bbf8-3db76a03c5cf.png">
+
+
 - This progress weather web app (PWA) is looking and behaving like a mobile app. 
     * On the app, search bar component is shown up where users type the city they want to know weather information, then by pressing enter, axios fetch necessary data from [Open Weather API](#https://openweathermap.org/api) website.
     * It will show the name of the city, degree celcius, image icons and description.   
